@@ -211,7 +211,7 @@ GameObject:
   - component: {fileID: 4052032795045683728}
   m_Layer: 0
   m_Name: reveal sprite
-  m_TagString: BluePlayer
+  m_TagString: BlueActivator
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

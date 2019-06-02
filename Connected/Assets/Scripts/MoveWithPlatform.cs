@@ -5,31 +5,38 @@ using UnityEngine;
 public class MoveWithPlatform : MonoBehaviour
 {
     public List<GameObject> movingChildren;
+    public bool isActive = true;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        if (!isActive && movingChildren.Count != 0)
+        {
+            unchildAllMovers();
+        }
     }
 
     // When certain things hit this, make them children so they move with this.
     public void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.tag == "Feet")
+        if (isActive)
         {
-            col.gameObject.transform.parent.gameObject.transform.parent = this.transform;
-            movingChildren.Add(col.gameObject.transform.parent.gameObject);
-        }
-        else if (col.gameObject.tag == "Box")
-        {
-            col.gameObject.transform.parent = this.transform;
-            movingChildren.Add(col.gameObject);
+            if (col.gameObject.tag == "Feet")
+            {
+                col.gameObject.transform.parent.gameObject.transform.parent = this.transform;
+                movingChildren.Add(col.gameObject.transform.parent.gameObject);
+            }
+            //else if (col.gameObject.tag == "Box")
+            //{
+            //    col.gameObject.transform.parent = this.transform;
+            //    movingChildren.Add(col.gameObject);
+            //}
         }
     }
 
@@ -41,11 +48,11 @@ public class MoveWithPlatform : MonoBehaviour
             col.gameObject.transform.parent.gameObject.transform.parent = null;
             movingChildren.Remove(col.gameObject.transform.parent.gameObject);
         }
-        else if (col.gameObject.tag == "Box")
-        {
-            col.gameObject.transform.parent = this.transform;
-            movingChildren.Remove(col.gameObject.transform.parent.gameObject);
-        }
+        //else if (col.gameObject.tag == "Box")
+        //{
+        //    col.gameObject.transform.parent = this.transform;
+        //    movingChildren.Remove(col.gameObject.transform.parent.gameObject);
+        //}
     }
 
     // Removes all children from moving with this.
@@ -55,7 +62,7 @@ public class MoveWithPlatform : MonoBehaviour
         foreach (GameObject X in movingChildren)
         {
             X.transform.parent = null;
-            movingChildren.Remove(X);
         }
+        movingChildren.Clear();
     }
 }

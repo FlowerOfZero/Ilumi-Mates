@@ -9,6 +9,8 @@ TagManager:
   - BluePlayer
   - Box
   - Feet
+  - BlueActivator
+  - RedActivator
   layers:
   - Default
   - TransparentFX

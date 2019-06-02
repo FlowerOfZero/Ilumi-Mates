@@ -210,7 +210,7 @@ GameObject:
   - component: {fileID: 1864215712609512716}
   m_Layer: 0
   m_Name: reveal sprite
-  m_TagString: RedPlayer
+  m_TagString: RedActivator
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
