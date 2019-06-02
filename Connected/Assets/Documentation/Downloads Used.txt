@@ -1,0 +1,35 @@
+INCA:
+https://kronbits.itch.io/inca-game-assets/download/eyJleHBpcmVzIjoxNTU5MjY5ODQ0LCJpZCI6MjI5NDkyfQ%3d%3d.TQ1mywUCKtT9Jt8QACGjPP2yUoQ%3d
+
+MINE TILESET:
+https://assetstore.unity.com/packages/2d/environments/mine-tileset-43476
+
+GROTTO ESCAPE II:
+https://assetstore.unity.com/packages/2d/textures-materials/grotto-escape-ii-86689
+
+RETRO CAVE:
+https://untiedgames.itch.io/retro-pixel-cave
+
+ENVIRONMNENT BROTHERS:
+https://opengameart.org/content/lo-res-2d-platformer-graphics
+
+LIGHT GUY:
+https://opengameart.org/content/flame-creature
+
+RUN LIKE HELL:
+https://waxx.itch.io/shadow-mines-asset-pack
+
+CAVE TILESET:
+https://opengameart.org/content/m13-cave-tileset
+
+Dungeon/prison:
+https://opengameart.org/content/dunegon-prison-tilesheet
+
+background:
+https://opengameart.org/content/dark-night-full-moon-background
+
+magic dark outdoors:
+https://assetstore.unity.com/packages/2d/textures-materials/forest-scene-84690
+
+alient tile set;
+https://assetstore.unity.com/packages/2d/textures-materials/alien-tile-set-116827

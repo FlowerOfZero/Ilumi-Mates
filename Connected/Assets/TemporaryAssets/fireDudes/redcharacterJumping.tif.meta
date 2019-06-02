@@ -1,0 +1,1201 @@
+fileFormatVersion: 2
+guid: 88f8b938d72cb304390ea25d809f0ec3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1744748063012253145
+    second: redcharacterJumping_0
+  - first:
+      213: 163405627636984037
+    second: redcharacterJumping_1
+  - first:
+      213: 6788178043825103214
+    second: redcharacterJumping_2
+  - first:
+      213: 8448307794714728071
+    second: redcharacterJumping_3
+  - first:
+      213: -6996517736532791951
+    second: redcharacterJumping_4
+  - first:
+      213: 1892613913339081530
+    second: redcharacterJumping_5
+  - first:
+      213: 3357344009586150220
+    second: redcharacterJumping_6
+  - first:
+      213: -8043662225382772784
+    second: redcharacterJumping_7
+  - first:
+      213: -1387596394362808696
+    second: redcharacterJumping_8
+  - first:
+      213: 6598618292839608367
+    second: redcharacterJumping_9
+  - first:
+      213: 7434251743186389556
+    second: redcharacterJumping_10
+  - first:
+      213: -6064415371974662757
+    second: redcharacterJumping_11
+  - first:
+      213: 4731640377671972793
+    second: redcharacterJumping_12
+  - first:
+      213: 2088873954400661130
+    second: redcharacterJumping_13
+  - first:
+      213: 5894301107275703860
+    second: redcharacterJumping_14
+  - first:
+      213: -3000518007177319609
+    second: redcharacterJumping_15
+  - first:
+      213: -6040939011061317226
+    second: redcharacterJumping_16
+  - first:
+      213: -7046335269949298038
+    second: redcharacterJumping_17
+  - first:
+      213: 7660690569509981607
+    second: redcharacterJumping_18
+  - first:
+      213: 8735257418882050908
+    second: redcharacterJumping_19
+  - first:
+      213: -4412732872169287359
+    second: redcharacterJumping_20
+  - first:
+      213: -8527654541242985448
+    second: redcharacterJumping_21
+  - first:
+      213: -7299389278365876468
+    second: redcharacterJumping_22
+  - first:
+      213: 2244687347498461019
+    second: redcharacterJumping_23
+  - first:
+      213: 567313451672553452
+    second: redcharacterJumping_24
+  - first:
+      213: 5428727087081960742
+    second: redcharacterJumping_25
+  - first:
+      213: -8300686810296353036
+    second: redcharacterJumping_26
+  - first:
+      213: 3607287752991671675
+    second: redcharacterJumping_27
+  - first:
+      213: 7515972817449234803
+    second: redcharacterJumping_28
+  - first:
+      213: -7746803106885916712
+    second: redcharacterJumping_29
+  - first:
+      213: 2741285840005545867
+    second: redcharacterJumping_30
+  - first:
+      213: -6840667131339464411
+    second: redcharacterJumping_31
+  - first:
+      213: -9082544456363714075
+    second: redcharacterJumping_32
+  - first:
+      213: 3428371722363450064
+    second: redcharacterJumping_33
+  - first:
+      213: 4115483254893303374
+    second: redcharacterJumping_34
+  - first:
+      213: -3153423626202108666
+    second: redcharacterJumping_35
+  - first:
+      213: -1477237734522519107
+    second: redcharacterJumping_36
+  - first:
+      213: 4275961593967812739
+    second: redcharacterJumping_37
+  - first:
+      213: -5301617648657907750
+    second: redcharacterJumping_38
+  - first:
+      213: -6771998141784423258
+    second: redcharacterJumping_39
+  - first:
+      213: -6846034421854864903
+    second: redcharacterJumping_40
+  - first:
+      213: 2317582901740769608
+    second: redcharacterJumping_41
+  - first:
+      213: 6213776199061615647
+    second: redcharacterJumping_42
+  - first:
+      213: 5665416213430941752
+    second: redcharacterJumping_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redcharacterJumping_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 225
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ac838026d40b445a1e2a54d31acf6f
+      internalID: -1744748063012253145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 225
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239744c9b7b95749b50d204bf1669f3
+      internalID: 163405627636984037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf99a7b9ec7b53419873b6929da5e8a
+      internalID: 6788178043825103214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 225
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca2eede028fce54f8730a8f7f6a43d5
+      internalID: 8448307794714728071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 225
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c7442b33dccc4a8661ecb812584c8
+      internalID: -6996517736532791951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e05073f756cf645bcca35b997c0386
+      internalID: 1892613913339081530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 225
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d4d84f82c66d3469ede2e4401d2d14
+      internalID: 3357344009586150220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 242
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65513e69ba8eb26429d2f9438afbc4f9
+      internalID: -8043662225382772784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 225
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08724e71a4b79eb47b2990e4a5e80eea
+      internalID: -1387596394362808696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 152
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1ee19137eaec4cb975bdf30a17986
+      internalID: 6598618292839608367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 196
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7926ad38bd991343bc5e4f23b81e6c3
+      internalID: 7434251743186389556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 203
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce79e45aa2a759419a1fc32f868dad5
+      internalID: -6064415371974662757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 198
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd69220786764f4d8a3809c5c228ac1
+      internalID: 4731640377671972793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 152
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2dba353af9914d9674f4bc601d153
+      internalID: 2088873954400661130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb37a59d07652143ac8db75a856086c
+      internalID: 5894301107275703860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 152
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a284d47b5c421c498fb218dab55396c
+      internalID: -3000518007177319609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 190
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe06ac723b808743a2c30a9271c42e2
+      internalID: -6040939011061317226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 152
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c21b7784919ec140806f5e479865599
+      internalID: -7046335269949298038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 152
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc0cf18edfe8c345b85a66790b52b77
+      internalID: 7660690569509981607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 133
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c834a4a08d3be49b5f46137ceaadce
+      internalID: 8735257418882050908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 185
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e4aafbbb1c1a4288f186d2582c16e
+      internalID: -4412732872169287359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 88
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c66b484fb84834fbbaf017813199c6
+      internalID: -8527654541242985448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 88
+        width: 19
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc935cc03bbabb48abc86107228eda2
+      internalID: -7299389278365876468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 130
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac33a6b106db24ca9de82b1f1d9f62
+      internalID: 2244687347498461019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfdc83c6a732e649aadd4e9e4ca04a7
+      internalID: 567313451672553452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6641bbbc021778469f438c8ed0a2578
+      internalID: 5428727087081960742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19d83943fa93046aeb24b3546ed920
+      internalID: -8300686810296353036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_27
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 88
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40e104470bc4c945b69676d89f8d20b
+      internalID: 3607287752991671675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 126
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095ac07abda34a449026bd36c4282ea
+      internalID: 7515972817449234803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 88
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a968edd19d36403439f3707b7cd92013
+      internalID: -7746803106885916712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 88
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5662b702ce7ff7245bc0b9177c2b8e22
+      internalID: 2741285840005545867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 88
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ea4ce25235dc4fafba74394f8f7ad
+      internalID: -6840667131339464411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_32
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 12
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3a6a23a3bc9a8438d438c8b9f5ddb8
+      internalID: -9082544456363714075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 56
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfdd864a245a8745b4a23b4bc2a8a89
+      internalID: 3428371722363450064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_34
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3540a062d828546af30f75ea28ac92
+      internalID: 4115483254893303374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 58
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7e38ed75f963468869d0b493debd2
+      internalID: -3153423626202108666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d6c6a079128c49a18a0ba9eab6a77
+      internalID: -1477237734522519107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 12
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee67e2769e2182744b0992c6e6d097f2
+      internalID: 4275961593967812739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 12
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f544956cfedcae149b80605be2d32e6e
+      internalID: -5301617648657907750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089b71c95a0c35648b9ee25850ea03ee
+      internalID: -6771998141784423258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_40
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 12
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b9dfd278ac9ae43a6044ed75a1aa04
+      internalID: -6846034421854864903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 12
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574fac160b223b4191b783b4d8ee170
+      internalID: 2317582901740769608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_42
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 12
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791dadf5cc8403f488ee481f7815573f
+      internalID: 6213776199061615647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redcharacterJumping_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d4e14fd5635a1438404d7119ffeb91
+      internalID: 5665416213430941752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 784842bd59fefd840811e4370d5f52d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

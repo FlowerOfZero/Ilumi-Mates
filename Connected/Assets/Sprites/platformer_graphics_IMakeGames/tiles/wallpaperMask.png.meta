@@ -1,0 +1,869 @@
+fileFormatVersion: 2
+guid: 718827de9aefc9e42966d0f465370505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4101965094730411410
+    second: wallpaperMask_0
+  - first:
+      213: -9210985529178113867
+    second: wallpaperMask_1
+  - first:
+      213: 8630239761591574838
+    second: wallpaperMask_2
+  - first:
+      213: 8682932188387897048
+    second: wallpaperMask_3
+  - first:
+      213: 5905522504614599553
+    second: wallpaperMask_4
+  - first:
+      213: 1361602336923197822
+    second: wallpaperMask_5
+  - first:
+      213: 3479162892888018182
+    second: wallpaperMask_6
+  - first:
+      213: -7135061347073515285
+    second: wallpaperMask_7
+  - first:
+      213: 5838320952630134324
+    second: wallpaperMask_8
+  - first:
+      213: -5358224160490396524
+    second: wallpaperMask_9
+  - first:
+      213: -2515807062168727754
+    second: wallpaperMask_10
+  - first:
+      213: 7433266968098880537
+    second: wallpaperMask_11
+  - first:
+      213: -6711215402164231176
+    second: wallpaperMask_12
+  - first:
+      213: 467252673382067878
+    second: wallpaperMask_13
+  - first:
+      213: 949179179298361481
+    second: wallpaperMask_14
+  - first:
+      213: 4104502695285234065
+    second: wallpaperMask_15
+  - first:
+      213: 7170555206675906591
+    second: wallpaperMask_16
+  - first:
+      213: 4763705531799206523
+    second: wallpaperMask_17
+  - first:
+      213: -7302346699816370823
+    second: wallpaperMask_18
+  - first:
+      213: 860127922653349673
+    second: wallpaperMask_19
+  - first:
+      213: -6466943619371797055
+    second: wallpaperMask_20
+  - first:
+      213: -2246877166810427290
+    second: wallpaperMask_21
+  - first:
+      213: 7912834433371616177
+    second: wallpaperMask_22
+  - first:
+      213: -186758928345956816
+    second: wallpaperMask_23
+  - first:
+      213: -3484749847455291788
+    second: wallpaperMask_24
+  - first:
+      213: -9111164039162545880
+    second: wallpaperMask_25
+  - first:
+      213: -3463553509426839456
+    second: wallpaperMask_26
+  - first:
+      213: 8878784621574454416
+    second: wallpaperMask_27
+  - first:
+      213: -776089060365727385
+    second: wallpaperMask_28
+  - first:
+      213: -2234207969408602492
+    second: wallpaperMask_29
+  - first:
+      213: -5356002946567351531
+    second: wallpaperMask_30
+  - first:
+      213: -8274458629037058653
+    second: wallpaperMask_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wallpaperMask_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e282e7b1c92f154c80d18ff0776f190
+      internalID: 4101965094730411410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 246
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7b9e211a9551b4d98d3a1ee94f79e9
+      internalID: -9210985529178113867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ee985c6988d443926b6119c1fd39b
+      internalID: 8630239761591574838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 234
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50aeaf03b08bd9488f9af5e77ba39de
+      internalID: 8682932188387897048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 222
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864bf14f1fa2fd74b92afbb46bc0e070
+      internalID: 5905522504614599553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bd629f59f8a384db4975877b8b3d83
+      internalID: 1361602336923197822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5de2e6d53c346479088376ad023fb3
+      internalID: 3479162892888018182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935337f9be1d7784c8fe7ece3fbd4c0c
+      internalID: -7135061347073515285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f7b16e1f60db43a5525990a9b6f14
+      internalID: 5838320952630134324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 199
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2707efe4b65e4786a0614a324d12e
+      internalID: -5358224160490396524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d7a2cda7f118e4b8ee1705ffdb6458
+      internalID: -2515807062168727754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 187
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bd8f36bab04d747873005aa3816ee5
+      internalID: 7433266968098880537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 174
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df021c4c7d4d7134ca8ef9c8a1cb4bee
+      internalID: -6711215402164231176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 175
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b982b5cfb6c2a44991289487366005a
+      internalID: 467252673382067878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb92845c8981c9146a2ec64ae5f56fd1
+      internalID: 949179179298361481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 163
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5540a7cece89ff84ca155abf93c9a1e8
+      internalID: 4104502695285234065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38aed30ee298bf44b09ddd824972d30
+      internalID: 7170555206675906591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 150
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe75e8e3f99c42498a23df56f9f83b3
+      internalID: 4763705531799206523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d9c1b0fdb39b469b8faee42326a85
+      internalID: -7302346699816370823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 138
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2387e2a1517fd4fb32390e7b259204
+      internalID: 860127922653349673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744a81017381573428be39c81975939a
+      internalID: -6466943619371797055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 126
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c9f9e5a0679c049923253516acf84b
+      internalID: -2246877166810427290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396651f2d2a0dac48bd2383cf07096f5
+      internalID: 7912834433371616177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 114
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b4f39d1bbefdf4c89efdcfe7e5d8a0
+      internalID: -186758928345956816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca0c735305ee2f498bbe1c22f594fe5
+      internalID: -3484749847455291788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a600d458037c55b4b89e83c4a238301f
+      internalID: -9111164039162545880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2426e2a7878134b4dbdeab416b4f5fe9
+      internalID: -3463553509426839456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 91
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8280f0a36da3edc47b13a40ba0e97842
+      internalID: 8878784621574454416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87b094d91c4144ab3420fe8364b211
+      internalID: -776089060365727385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 82
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03d404ad9f9eee41b9f5ffb91f0d556
+      internalID: -2234207969408602492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a94400f53127b146aabe4d878581b9b
+      internalID: -5356002946567351531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wallpaperMask_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88e2215cb9d633478d260fa899b4197
+      internalID: -8274458629037058653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 58ae3426eac52dd4286c45cd6691348a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
