@@ -10,6 +10,7 @@ public class NextLevelScript : MonoBehaviour
     public NextLevelScript otherScript;
     public float time;
     public bool hasStarted = false;
+    public AudioSource sfx;
 
     void Update()
     {
@@ -22,6 +23,19 @@ public class NextLevelScript : MonoBehaviour
                 // sound
                 SceneManager.LoadScene(scene);
             }
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.CompareTag("BluePlayer"))
+        {
+            sfx.Play();
+        }
+
+        if (col.gameObject.CompareTag("RedPlayer"))
+        {
+            sfx.Play();
         }
     }
 

@@ -7,6 +7,7 @@ public class ResetScript : MonoBehaviour
 {
     public float restartWait = 3;
     public bool fadeStarted = false;
+    public AudioSource deadSFX;
     void Update()
     {
         Debug.Log("Waiting for: " + restartWait);//
@@ -38,7 +39,10 @@ public class ResetScript : MonoBehaviour
         if (col.gameObject.tag == "BluePlayer" || col.gameObject.tag == "RedPlayer")
         {
             if (!fadeStarted)
+            {
+                deadSFX.Play();
                 restart();
+            }
         }
     }
 }

@@ -8,6 +8,8 @@ public class MovementP2 : MonoBehaviour
     private Rigidbody2D rb;
     public float speed;
     public float jumpForce;
+    public AudioSource groundSFX;
+    public AudioSource jumpSFX;
 
     public bool isGrounded;
     public Transform feetPos;
@@ -18,6 +20,7 @@ public class MovementP2 : MonoBehaviour
     public bool isOnPlayer;
     private Animator anim;
     public bool facingRight = false;
+    private bool whetherGroundedBefore;
 
     // Start is called before the first frame update
     void Start()
@@ -29,8 +32,17 @@ public class MovementP2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        //if (Input.GetKey("up") && isGrounded)
+        //    jumpSFX.Play();
+
+        whetherGroundedBefore = isGrounded;
+
         isGrounded = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsGround);
         isOnPlayer = Physics2D.OverlapCircle(feetPos.position, checkRadius, whatIsPlayer);
+
+        if (isGrounded && !whetherGroundedBefore)
+            groundSFX.Play();
 
         moveInput = Input.GetAxisRaw("HorizontalP2");
         rb.velocity = new Vector2(moveInput * speed, rb.velocity.y);
