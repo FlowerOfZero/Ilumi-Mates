@@ -4,25 +4,37 @@ using UnityEngine;
 
 public class Fade : MonoBehaviour {
     public float rate;
-    public bool fadeOut = true;
+    public bool isFadeOut = true;
     SpriteRenderer Rend;
+
+    void Awake()
+    {
+        Messenger.AddListener(GameEvent.FADE_TO_BLACK, fadeIn);
+        Messenger.AddListener(GameEvent.FADE_FROM_BLACK, fadeOut);
+    }
+
+    void OnDestroy()
+    {
+        Messenger.RemoveListener(GameEvent.FADE_TO_BLACK, fadeIn);
+        Messenger.RemoveListener(GameEvent.FADE_FROM_BLACK, fadeOut);
+    }
+
 	// Use this for initialization
 	void Start () {
         Rend = GetComponent<SpriteRenderer>();
 
-        if (fadeOut)
-            Rend.color = new Color(Rend.color.r, Rend.color.g, Rend.color.b, 1);
-
+        if (isFadeOut)
+            fadeOut();
+        else
+            fadeIn();
     }
 	
 	// Update is called once per frame
 	void Update () {
-        if (fadeOut)
+        if (isFadeOut)
         {
             if (Rend.color.a > 0f)
                 Rend.color = new Color(Rend.color.r, Rend.color.g, Rend.color.b, Rend.color.a - (Time.deltaTime * rate));
-            else
-                Destroy(this.gameObject);
         }
         else
         {
@@ -30,4 +42,16 @@ public class Fade : MonoBehaviour {
                 Rend.color = new Color(Rend.color.r, Rend.color.g, Rend.color.b, Rend.color.a + (Time.deltaTime * rate));
         }
 	}
+
+    void fadeIn()
+    {
+        Rend.color = new Color(Rend.color.r, Rend.color.g, Rend.color.b, 0);
+        isFadeOut = false;
+    }
+
+    void fadeOut()
+    {
+        Rend.color = new Color(Rend.color.r, Rend.color.g, Rend.color.b, 1);
+        isFadeOut = true;
+    }
 }

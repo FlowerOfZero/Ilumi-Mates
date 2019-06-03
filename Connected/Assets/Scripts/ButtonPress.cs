@@ -58,7 +58,7 @@ public class ButtonPress : MonoBehaviour
 
     public void OnTriggerEnter2D(Collider2D col)
     {
-         if (col.gameObject.tag == "Feet" || col.gameObject.tag == "Box")
+         if (col.gameObject.tag == "Feet" || col.gameObject.tag == "Box" || col.gameObject.tag == "Head")
          {
              buttonState = 2;
              ButtonScript.PlayOption2();
@@ -68,7 +68,7 @@ public class ButtonPress : MonoBehaviour
 
     public void OnTriggerExit2D(Collider2D col)
     {
-         if (col.gameObject.tag == "Feet" || col.gameObject.tag == "Box")
+         if (col.gameObject.tag == "Feet" || col.gameObject.tag == "Box" || col.gameObject.tag == "Head")
          {
              numCollisions--;
          }
