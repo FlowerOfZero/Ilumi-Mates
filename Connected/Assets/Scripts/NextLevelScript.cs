@@ -9,9 +9,12 @@ public class NextLevelScript : MonoBehaviour
     public bool redPlayerInside, bluePlayerInside;
     public NextLevelScript otherScript;
     public float time;
+    public float waitTime;
+    public bool hasStarted = false;
 
     void OnTriggerStay2D(Collider2D col)
     {
+        bluePlayerInside = redPlayerInside = false;
         if (col.gameObject.CompareTag("BluePlayer"))
         {
             Debug.Log("BluePlayer is at the end");
@@ -24,10 +27,10 @@ public class NextLevelScript : MonoBehaviour
             redPlayerInside = true;
         }
 
-        if(redPlayerInside && bluePlayerInside)
+        if (redPlayerInside && bluePlayerInside)
         {
             time -= Time.deltaTime;
-            if(time <=0)
+            if(time <=0 && !hasStarted)
                 SceneManager.LoadScene(scene);
         }
     }
@@ -45,5 +48,13 @@ public class NextLevelScript : MonoBehaviour
             Debug.Log("RedPlayer Left the end");
             redPlayerInside = false;
         }
+    }
+
+    IEnumerator waitLoad()
+    {
+        hasStarted = true;
+        // play sound!
+        yield return new WaitForSeconds(waitTime);
+        SceneManager.LoadScene(scene);
     }
 }
