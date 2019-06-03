@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 283870011857225033}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -7.67}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5714420985368843594}
@@ -43,7 +43,7 @@ Light:
   m_Type: 2
   m_Color: {r: 0.98765564, g: 1, b: 0, a: 1}
   m_Intensity: 30
-  m_Range: 20
+  m_Range: 15
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -4939,7 +4939,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0145869255, y: 0.038898468}
+  m_Offset: {x: -0.080328465, y: 0.038898468}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -4950,7 +4950,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.5543013, y: 1.4473319}
+  m_Size: {x: 2.5257883, y: 1.4473319}
   m_EdgeRadius: 0
 --- !u!114 &5714420985368843447
 MonoBehaviour:
@@ -4964,10 +4964,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 033cfb6889fb0b942997ddfd82f590e7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: 
+  scene: Level8
   redPlayerInside: 0
   bluePlayerInside: 0
   otherScript: {fileID: 0}
   time: 5
-  waitTime: 0
   hasStarted: 0
